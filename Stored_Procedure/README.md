@@ -15,7 +15,7 @@ It helps to save all grants for procedure (analog `CREATE OR REPLACE PROCEDURE` 
 
 ## [sp_IndexAnalysis-v11](sp_IndexAnalysis-v11.sql)
 Author: Jason Strate<br/>
-Original link: http://www.jasonstrate.com/2013/05/index-analysis-may-update/<br/>
+Original link: https://github.com/StrateSQL/sqlserver_indexanalysis<br/>
 Tested on SQL Server version: 2012/2014
 
 
